@@ -1,0 +1,9 @@
+F:\PCB_lv\System scheduling\bin\Debug\System scheduling.exe.config
+F:\PCB_lv\System scheduling\bin\Debug\System scheduling.exe
+F:\PCB_lv\System scheduling\bin\Debug\System scheduling.pdb
+F:\PCB_lv\System scheduling\obj\Debug\System scheduling.csprojAssemblyReference.cache
+F:\PCB_lv\System scheduling\obj\Debug\System_scheduling.Form1.resources
+F:\PCB_lv\System scheduling\obj\Debug\System_scheduling.Properties.Resources.resources
+F:\PCB_lv\System scheduling\obj\Debug\System scheduling.csproj.GenerateResource.cache
+F:\PCB_lv\System scheduling\obj\Debug\System scheduling.exe
+F:\PCB_lv\System scheduling\obj\Debug\System scheduling.pdb
